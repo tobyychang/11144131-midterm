@@ -9,3 +9,7 @@ header {
     text-align: center;
     color: #adacb5;
 }
+
+fieldset {
+    width: 95%;
+}
