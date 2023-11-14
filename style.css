@@ -1,13 +1,17 @@
 body {
-    background-color: #d8d5db;
+    background-color: #f4f3ee;
     font-size: large;
     margin: 0 auto;
     max-width: 1000px;
+    font-family: 微軟正黑體;
 }
 
 header {
     text-align: center;
-    color: #adacb5;
+    color: #8a817c;
+    font-size: xx-large;
+    font-family: 微軟正黑體;
+
 }
 
 fieldset {
